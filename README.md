@@ -345,7 +345,16 @@ Main analytical methods include:
 # Project Structure
 
 ```text
+Menstrual-Cycle-Analysis/
+│
 ├── Data Quality Assessment.ipynb
 ├── README.md
-└── data/
-    └── [dataset files]
+│
+├── data/
+│   └── [dataset files]
+│
+└── dashboard/
+    ├── app.py
+    ├── final_cluster_data.csv
+    ├── sensitivity_results.csv
+    └── transition_percentages.csv
