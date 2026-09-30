@@ -1,0 +1,16 @@
+Feature Set,K,Observations,Silhouette Score,Smallest Cluster,Largest Cluster
+A_Original,2,1512,0.2826,579,933
+A_Original,3,1512,0.2804,297,797
+A_Original,4,1512,0.2858,86,741
+A_Original,5,1512,0.243,77,620
+A_Original,6,1512,0.2252,75,464
+B_Reduced,2,1512,0.3238,445,1067
+B_Reduced,3,1512,0.2941,290,772
+B_Reduced,4,1512,0.2878,74,694
+B_Reduced,5,1512,0.2412,79,480
+B_Reduced,6,1512,0.2545,69,423
+C_Minimal,2,1661,0.375,610,1051
+C_Minimal,3,1661,0.4118,294,852
+C_Minimal,4,1661,0.3867,197,758
+C_Minimal,5,1661,0.3961,114,596
+C_Minimal,6,1661,0.3784,105,375
