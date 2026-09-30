@@ -1,5 +1,4 @@
 # Menstrual Cycle Pattern Dashboard
-# Menstrual Cycle Pattern Dashboard
 
 This folder contains the supplementary Streamlit dashboard developed as part of the master's thesis:
 
